@@ -19,12 +19,12 @@ If N > 0, use a loop to print numbers from 1 to N.
 Stop the program.
 
 ### Program:
-````
 /*
 Program to implement Print All Numbers from 1 to N
 Developed by: SHARMITHA V
 Register Number: 212223110048
 */
+```
 import java.util.*;
 
 public class PrintNumbers {
@@ -37,8 +37,7 @@ public class PrintNumbers {
     }
     
 }
-````
-
+```
 
 ### OUTPUT:
 
