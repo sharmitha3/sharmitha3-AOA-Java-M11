@@ -9,11 +9,16 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 ### Algorithm
 
-1.Start the program.
-2.Read the integer value n from the user.
-3.If n ≤ 0, return false (because powers of 2 are always positive).
-4.Use a loop to check whether n becomes 1 when repeatedly divided by 2.
-5.If n becomes 1, display true; otherwise display false.
+Start the program.
+
+Read the integer value n from the user.
+
+If n ≤ 0, return false (because powers of 2 are always positive).
+
+Use a loop to check whether n becomes 1 when repeatedly divided by 2.
+
+If n becomes 1, display true; otherwise display false.
+
 
 ### Program:
 ```
