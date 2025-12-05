@@ -2,7 +2,7 @@
 
 ## Date: 08-08-2025
 
-### AIM
+### AIM 
 
 To write a Java program that takes an integer input N from the user and prints all the numbers from 1 to N, separated by spaces, on a single line.
 
