@@ -1,11 +1,13 @@
 <h1 align="center">EX 1B Power of 2</h1>
+
 ### DATE: 10-08-2025
+
 ### AIM:
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
-
 An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 ### Algorithm
+
 Start the program.
 Read the integer value n from the user.
 If n ≤ 0, return false (because powers of 2 are always positive).
