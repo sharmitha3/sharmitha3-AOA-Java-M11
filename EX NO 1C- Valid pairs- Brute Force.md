@@ -1,6 +1,6 @@
 <h1 align="center">EX 1C Valid Pairs using Brute Force Approach</h1>
 
-### DATE: 10-08-2025
+### DATE: 21-08-2025
 
 ### AIM:
 
