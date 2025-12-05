@@ -18,6 +18,28 @@ If N > 0, use a loop to print numbers from 1 to N.
 
 Stop the program.
 
+### Program:
+````
+/*
+Program to implement Print All Numbers from 1 to N
+Developed by: SHARMITHA V
+Register Number: 212223110048
+*/
+import java.util.*;
+
+public class PrintNumbers {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        for(int i =1;i<=n;i++){
+            System.out.print(i + (i<n ? " ":""));
+        }
+    }
+    
+}
+````
+
+
 ### OUTPUT:
 
 <img width="1469" height="279" alt="image" src="https://github.com/user-attachments/assets/afb21243-ce43-4f92-b9ee-25f2bc852e4d" />
