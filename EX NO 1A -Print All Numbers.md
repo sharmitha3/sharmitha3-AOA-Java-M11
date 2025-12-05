@@ -1,4 +1,4 @@
-#### EX NO 1A – Print All Numbers
+<h1 align="center">### EX NO 1A – Print All Numbers</h1>
 
 ## Date: 08-08-2025
 
