@@ -3,12 +3,13 @@
 ### DATE: 10-08-2025
 
 ### AIM:
+```
 To write a Java program to for given constraints.Given an integer n, return true if it is a power of two. Otherwise, return false.
 
 An integer n is a power of two, if there exists an integer x such that n == 2x.
-
+```
 ### Algorithm
-
+```
 Start the program.
 
 Read the integer value n from the user.
@@ -18,7 +19,7 @@ If n ≤ 0, return false (because powers of 2 are always positive).
 Use a loop to check whether n becomes 1 when repeatedly divided by 2.
 
 If n becomes 1, display true; otherwise display false.
-
+```
 
 ### Program:
 ```
